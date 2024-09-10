@@ -16,3 +16,10 @@ It utilizes a binary search tree (BST) to store and manage the top queries effic
 
 - ZIP:  https://drive.google.com/file/d/1Y-Cy79ZiX67gStPXbtaP35KtPydpRL_Z/view?usp=sharing
 - ZIP contains search-history.txt and search-results.txt which are provided with the problem statement. Other Files are the part of solution.
+- search-results.txt: Contains the queries and their corresponding URLs.
+ - search-history.txt: Contains the queries in lowercase
+
+
+## _**USAGE:**_
+ - Simply download the zip after reading problem statement
+ - Run MAIN.py once and search for queries, the run generaterecord.py and timereport.py to get record files as required.
