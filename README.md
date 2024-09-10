@@ -12,7 +12,7 @@ It utilizes a binary search tree (BST) to store and manage the top queries effic
 - _**Time Report:**   Implements a time report showing the average time to search frequent and less frequent queries using the 50 most frequent and 50 less frequent words.._
 
 ## _**Files:**_
-Problem statement: https://docs.google.com/document/d/1JjWTLVmz0yZjB2A1SK27ooDlG-xsmv-g/edit
+- Problem statement: https://docs.google.com/document/d/1JjWTLVmz0yZjB2A1SK27ooDlG-xsmv-g/edit
 
-ZIP:  https://drive.google.com/file/d/1Y-Cy79ZiX67gStPXbtaP35KtPydpRL_Z/view?usp=sharing
+- ZIP:  https://drive.google.com/file/d/1Y-Cy79ZiX67gStPXbtaP35KtPydpRL_Z/view?usp=sharing
 - ZIP contains search-history.txt and search-results.txt which are provided with the problem statement. Other Files are the part of solution.
