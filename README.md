@@ -1,7 +1,7 @@
 ## _***BASIC QUERY SEARCH ENGINE USING DATA STRUCTURES***_
 
 _This project implements a basic search engine that processes search queries and tracks their occurrences.
-It utilizes a binary search tree (BST) to store and manage the top queries efficiently. A balances BST is implemenented instead of AVL_.
+It utilizes a binary search tree (BST) to store and manage the top queries efficiently. A balances BST is implemented instead of AVL_.
 
 
 ## _**KEY FEAUTURE:**_
